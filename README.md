@@ -11,6 +11,18 @@ Every deck and card is stored on-chain, ensuring that game logic is verifiable, 
 This project is designed for developers learning Solidity and decentralized game logic.
 
 
+⚙️ What It Does
+
+🎴 Users can create unique cards with custom metadata (e.g., name, image, attributes).
+
+🧩 Combine cards into a deck managed by a smart contract.
+
+🔀 Shuffle decks with pseudo-random logic (optionally extendable to Chainlink VRF for true randomness).
+
+🃏 Draw cards one by one directly from the blockchain.
+
+🔍 View remaining cards and verify deck integrity on-chain.
+
 
 
 
