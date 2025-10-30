@@ -3,6 +3,7 @@
 
 
 📜 PROJECT DESCRIPTION
+
 DeckChain is a decentralized on-chain deck management system that allows users to create, shuffle, and draw cards securely using blockchain technology.
 It’s perfect for card-based games, NFT collectibles, or any decentralized app where fairness and transparency matter.
 
