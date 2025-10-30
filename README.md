@@ -24,6 +24,15 @@ This project is designed for developers learning Solidity and decentralized game
 🔍 View remaining cards and verify deck integrity on-chain.
 
 
+🌟 Features
+
+🧠 Beginner-Friendly Solidity Code – Easy to read, modify, and extend.
+🔒 Secure Deck Ownership – Only the deck creator can shuffle or draw cards.
+⛓️ Fully On-Chain Transparency – Every card, deck, and shuffle is visible to everyone.
+⚡ Gas-Efficient Design – Optimized data structures to save gas costs.
+🪄 Extensible Architecture – Can integrate NFTs or randomness providers like Chainlink.
+
+
 
 
 
