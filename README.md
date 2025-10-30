@@ -38,7 +38,7 @@ This project is designed for developers learning Solidity and decentralized game
 Language: Solidity ^0.8.20
 Framework: Remix / Hardhat Compatible
 Network: Ethereum or Polygon Testnet
-👉 **Deployed Smart Contract:** [0x185dc2e50a3dfc49f92dd9dd0c3087f22553e603](https://celo-sepolia.blockscout.com/address/0x185dc2e50a3dfc49f92dd9dd0c3087f22553e603)
+👉 **Deployed Smart Contract:https://celo-sepolia.blockscout.com/address/0x185dc2e50a3dfc49f92dd9dd0c3087f22553e603
 
 
 
